@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: cb3644c46bd7341568ef501898b14ccb
+timeCreated: 1442065642
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KOOPA SPRITE_0
+    21300002: KOOPAwalk1
+    21300004: KOOPAwalk2
+    21300006: KOOPAwalk3
+    21300008: KOOPAwalk4
+    21300010: KOOPA SPRITE_5
+    21300012: KOOPA SPRITE_6
+    21300014: KOOPA SPRITE_7
+    21300016: KOOPA SPRITE_8
+    21300018: KOOPA SPRITE_9
+    21300020: KOOPA SPRITE_10
+    21300022: KOOPA SPRITE_11
+    21300024: KOOPA SPRITE_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KOOPA SPRITE_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPAwalk1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 37
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPAwalk2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPAwalk3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 36
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPAwalk4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 33
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 26
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOOPA SPRITE_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

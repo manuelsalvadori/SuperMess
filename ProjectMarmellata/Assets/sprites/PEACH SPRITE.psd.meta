@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 72fd49a8b12444da1b7c3b54079d641d
+timeCreated: 1442323485
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PEACH SPRITE_0
+    21300002: PEACH SPRITE_1
+    21300004: PEACH SPRITE_2
+    21300006: PEACH SPRITE_3
+    21300008: PEACH SPRITE_4
+    21300010: PEACH SPRITE_5
+    21300012: PEACH SPRITE_6
+    21300014: PEACH SPRITE_7
+    21300016: PEACH SPRITE_8
+    21300018: PEACH SPRITE_9
+    21300020: PEACH SPRITE_10
+    21300022: PEACH SPRITE_11
+    21300024: PEACH SPRITE_12
+    21300026: PEACH SPRITE_13
+    21300028: PEACH SPRITE_14
+    21300030: PEACH SPRITE_15
+    21300032: PEACH SPRITE_16
+    21300034: PEACH SPRITE_17
+    21300036: PEACH SPRITE_18
+    21300038: PEACH SPRITE_19
+    21300040: PEACH SPRITE_20
+    21300042: PEACH SPRITE_21
+    21300044: PEACH SPRITE_22
+    21300046: PEACH SPRITE_23
+    21300048: PEACH SPRITE_24
+    21300050: PEACH SPRITE_25
+    21300052: PEACH SPRITE_26
+    21300054: PEACH SPRITE_27
+    21300056: PEACH SPRITE_28
+    21300058: PEACH SPRITE_29
+    21300060: PEACH SPRITE_30
+    21300062: PEACH SPRITE_31
+    21300064: PEACH SPRITE_32
+    21300066: PEACH SPRITE_33
+    21300068: PEACH SPRITE_34
+    21300070: PEACH SPRITE_35
+    21300072: PEACH SPRITE_36
+    21300074: PEACH SPRITE_37
+    21300076: PEACH SPRITE_38
+    21300078: PEACH SPRITE_39
+    21300080: PEACH SPRITE_40
+    21300082: PEACH SPRITE_41
+    21300084: vite
+    21300086: PEACH SPRITE_43
+    21300088: PEACH SPRITE_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PEACH SPRITE_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 442
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 442
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 442
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 442
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 442
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 442
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 442
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 365
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 370
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 366
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 370
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 368
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 367
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 373
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 294
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 295
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 294
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 297
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 300
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 301
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 303
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 302
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 300
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 180
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 180
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 183
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 129
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 129
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 129
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 129
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 75
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 75
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 75
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 75
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 84
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 84
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vite
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 53
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_43
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 12
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEACH SPRITE_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 15
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
