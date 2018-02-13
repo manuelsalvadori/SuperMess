@@ -34,13 +34,13 @@ public class Player : MonoBehaviour {
 		{
 			GameMaster.KillPlayer(this);
 		}
-		Transform scri = transform.FindChild("wtf(Clone)");
+		Transform scri = transform.Find("wtf(Clone)");
 		if(scri == null)
 		{
-			scri = transform.FindChild("swag(Clone)");
+			scri = transform.Find("swag(Clone)");
 			if(scri == null)
 			{
-				scri = transform.FindChild("lol(Clone)");
+				scri = transform.Find("lol(Clone)");
 			}
 		}
 		else
